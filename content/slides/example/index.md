@@ -6,6 +6,7 @@ tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
+draft: true
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)

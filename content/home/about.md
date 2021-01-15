@@ -1,8 +1,8 @@
 ---
 widget: about
-active: true
+active: false
 author: admin
-widget_id: about-me
+widget_id: recent-post
 headless: true
 weight: 20
 title: Biography

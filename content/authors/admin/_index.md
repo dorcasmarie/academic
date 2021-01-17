@@ -4,9 +4,7 @@ role: Data Analytics Specialist
 avatar_filename: avatar.jpg
 bio: My research interests include survival analysis and deep learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DeepLearning;MachineLearning;SurvivalAnalysis
 social:
   - display:
       header: false
@@ -33,4 +31,3 @@ highlight_name: false
 ---
 Hello! My name is Dorcas Washington and I'm currently the Data Analytics Specialist in the Health Science Library at the University of Cincinnati. Also I'm a full-time PhD student at the University of Cincinnati. I enjoy learning about the applications of machine learning and deep learning in medicine and public health. In my free time I enjoy learning and teaching aerial arts.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

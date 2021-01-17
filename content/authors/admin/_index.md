@@ -2,8 +2,9 @@
 title: Dorcas Washington
 role: Data Analytics Specialist
 avatar_filename: avatar.jpg
-bio: My research interests include survival analysis and deep learning.
-interests: []
+bio: ""
+interests:
+  - Deep
 social:
   - display:
       header: false

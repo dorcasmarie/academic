@@ -51,11 +51,12 @@ experience:
     date_end: '2018-04-28'
     description: Assisted internal and external clients in designing investigations as well as examining and understanding their results
     
- - title: Graduate Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: Wright State University
     company_url: 'www.wright.edu'
     location: Ohio
     date_start: '2016-08-22'
     date_end: '2018-04-28'
     description: Taught students to utilize R programming in three Elementary Statistics labs for four semesters
+
 ---

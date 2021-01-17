@@ -22,24 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Data Analytics Specialst
+    company: University of Cincinnati
+    company_url: 'www.uc.edu'
+    location: Ohio
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Analyzing
         * Modelling
-        * Deploying
+        * Organizing data 
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Content Analyst
+    company: University of Cincinnati
+    company_url: 'www.uc.edu'
+    location: Ohio
+    date_start: '2018-07-01'
+    date_end: '2020-05-31'
+    description: Developed tools that assisted the Content Services in acquiring and assessing resources 
+    
+  - title: Junior Statistical Consultant
+    company: Wright State University
+    company_url: 'www.wright.edu'
+    location: Ohio
+    date_start: '2017-08-21'
+    date_end: '2018-04-28'
+    description: Assisted internal and external clients in designing investigations as well as examining and understanding their results
+    
+ - title: Graduate Teaching Assistant
+    company: Wright State University
+    company_url: 'www.wright.edu'
+    location: Ohio
+    date_start: '2016-08-22'
+    date_end: '2018-04-28'
+    description: Taught students to utilize R programming in three Elementary Statistics labs for four semesters
 ---

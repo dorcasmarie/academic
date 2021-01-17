@@ -4,7 +4,9 @@ role: Data Analytics Specialist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Deep
+  - Deep Learning
+  - Machine Learning
+  - Survival Analysis
 social:
   - display:
       header: false

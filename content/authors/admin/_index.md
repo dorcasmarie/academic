@@ -8,11 +8,9 @@ interests:
   - Machine Learning
   - Survival Analysis
 social:
-  - display:
-      header: false
-    link: https://twitter.com/dorcasmariew
+  - icon: twitter
     icon_pack: fab
-    icon: Twitter
+    link: https://twitter.com/dorcasmariew
   - icon: github
     icon_pack: fab
     link: https://github.com/dorcasmarie

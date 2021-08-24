@@ -3,7 +3,7 @@ title: Summer Rewind
 subtitle: ""
 date: 2021-08-24T17:52:07.574Z
 summary: Review of Summer of 2021 for a first year grad student
-draft: true
+draft: false
 featured: true
 tags: []
 image:

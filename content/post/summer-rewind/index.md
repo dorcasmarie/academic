@@ -9,7 +9,7 @@ tags: []
 image:
   filename: img_0660.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: A picture of me enjoying LA.
   alt_text: A picture of me enjoying LA.
 ---
